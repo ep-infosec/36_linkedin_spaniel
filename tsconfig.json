@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "declaration": true,
+      "isolatedModules": false,
+      "module": "es2015",
+      "target": "es5",
+      "outDir": "exports/es6",
+      "sourceMap": true,
+      "moduleResolution": "node",
+      "noUnusedLocals": true
+    },
+    "filesGlob": [
+      "**/*.ts"
+    ]
+  }
